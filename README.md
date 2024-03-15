@@ -1,7 +1,5 @@
 
-# Final Data Science Project
-### Full Name: Mengzhe(Alvin) Zhao
-### Student ID: 219258024
+# Integrative Analysis and Predictive Modelling for Enhanced Road Safety based on Canterbury Region Traffic
 
 <br>
 
