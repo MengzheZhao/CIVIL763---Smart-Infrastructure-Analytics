@@ -9,7 +9,7 @@
 
 **<li>The project is based on Canterbury Region Traffic in New Zealand.</li>**
 
-<li> **The traffic data about crash analysis system and traffic counts are from the official website of NZTA.**
+**<li>The traffic data about crash analysis system and traffic counts are from the official website of NZTA.**
     <ol>
       <li>The TMS daily traffic counts data is from https://opendata-nzta.opendata.arcgis.com/datasets/9cb86b342f2d4f228067a7437a7f7313/about.</li>
       <li>The Crash Analysis System (CAS) data is from https://opendata-nzta.opendata.arcgis.com/datasets/NZTA::crash-analysis-system-cas-data-1/about.</li>
