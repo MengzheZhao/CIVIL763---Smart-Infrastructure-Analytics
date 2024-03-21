@@ -17,6 +17,8 @@
     </ol>
 </li>
 
+**<li>Because of the interactive map in the project, the file is too big to display. Please download the .ipynb file and run it, or directly download the .html file generated from the .ipynb file.</li>**
+
 </ol>
 
 <br>
